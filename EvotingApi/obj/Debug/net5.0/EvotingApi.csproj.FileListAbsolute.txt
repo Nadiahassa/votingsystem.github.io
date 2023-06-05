@@ -1,0 +1,734 @@
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\appsettings.Development.json
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\appsettings.json
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.exe
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.deps.json
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.json
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.dev.json
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.pdb
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Humanizer.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\nadia\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.AssemblyReference.cache
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfoInputs.cache
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfo.cs
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CoreCompileInputs.cache
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cs
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cache
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\scopedcss\bundle\EvotingApi.styles.css
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Manifest.cache
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Pack.cache
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.EvotingApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.build.EvotingApi.props
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EvotingApi.props
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EvotingApi.props
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.RazorTargetAssemblyInfo.cache
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CopyComplete
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.dll
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\refint\EvotingApi.dll
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.pdb
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.genruntimeconfig.cache
+F:\nadia\Evoting-Solution\EvotingApi\obj\Debug\net5.0\ref\EvotingApi.dll
+C:\Users\Fannan\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.dll
+C:\Users\Fannan\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\refint\EvotingApi.dll
+C:\Users\Fannan\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.pdb
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\appsettings.json
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.exe
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.deps.json
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.json
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.dev.json
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\EvotingApi.pdb
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\MailKit.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\MimeKit.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.AssemblyReference.cache
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfoInputs.cache
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfo.cs
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CoreCompileInputs.cache
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\scopedcss\bundle\EvotingApi.styles.css
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Manifest.cache
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Pack.cache
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.EvotingApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.build.EvotingApi.props
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EvotingApi.props
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EvotingApi.props
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.RazorTargetAssemblyInfo.cache
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CopyComplete
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\refint\EvotingApi.dll
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.pdb
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\EvotingApi.genruntimeconfig.cache
+C:\Users\ZERO TECH\Downloads\Evoting-Solution\EvotingApi\obj\Debug\net5.0\ref\EvotingApi.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.Development.json
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.json
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.exe
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.deps.json
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.json
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.dev.json
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.pdb
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Humanizer.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MailKit.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MimeKit.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Formats.Asn1.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.AssemblyReference.cache
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfoInputs.cache
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfo.cs
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CoreCompileInputs.cache
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cs
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cache
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\scopedcss\bundle\EvotingApi.styles.css
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Manifest.cache
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Pack.cache
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.EvotingApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.build.EvotingApi.props
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EvotingApi.props
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EvotingApi.props
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.RazorTargetAssemblyInfo.cache
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CopyComplete
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\refint\EvotingApi.dll
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.pdb
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.genruntimeconfig.cache
+F:\nadia\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\ref\EvotingApi.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.exe
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.deps.json
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.json
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.dev.json
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.pdb
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MailKit.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.AssemblyReference.cache
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfoInputs.cache
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfo.cs
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CoreCompileInputs.cache
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\scopedcss\bundle\EvotingApi.styles.css
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Manifest.cache
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Pack.cache
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.EvotingApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.build.EvotingApi.props
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EvotingApi.props
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EvotingApi.props
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.RazorTargetAssemblyInfo.cache
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CopyComplete
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\refint\EvotingApi.dll
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.pdb
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.genruntimeconfig.cache
+C:\Users\Fannan\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\ref\EvotingApi.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.exe
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.deps.json
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.json
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.dev.json
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.pdb
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MailKit.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.AssemblyReference.cache
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfoInputs.cache
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfo.cs
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CoreCompileInputs.cache
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\scopedcss\bundle\EvotingApi.styles.css
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Manifest.cache
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Pack.cache
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.EvotingApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.build.EvotingApi.props
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EvotingApi.props
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EvotingApi.props
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.RazorTargetAssemblyInfo.cache
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CopyComplete
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\refint\EvotingApi.dll
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.pdb
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.genruntimeconfig.cache
+C:\Users\Girguis\Desktop\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\ref\EvotingApi.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.exe
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.deps.json
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.json
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.dev.json
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.pdb
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MailKit.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.AssemblyReference.cache
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfoInputs.cache
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfo.cs
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CoreCompileInputs.cache
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\scopedcss\bundle\EvotingApi.styles.css
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Manifest.cache
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Pack.cache
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.EvotingApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.build.EvotingApi.props
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EvotingApi.props
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EvotingApi.props
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.RazorTargetAssemblyInfo.cache
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CopyComplete
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\refint\EvotingApi.dll
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.pdb
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.genruntimeconfig.cache
+C:\Users\Fannan\Desktop\rehab\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\ref\EvotingApi.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.json
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.exe
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.deps.json
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.json
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.dev.json
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.pdb
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MailKit.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MimeKit.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.AssemblyReference.cache
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfoInputs.cache
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfo.cs
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CoreCompileInputs.cache
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\scopedcss\bundle\EvotingApi.styles.css
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Manifest.cache
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Pack.cache
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.EvotingApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.build.EvotingApi.props
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EvotingApi.props
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EvotingApi.props
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.RazorTargetAssemblyInfo.cache
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CopyComplete
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\refint\EvotingApi.dll
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.pdb
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.genruntimeconfig.cache
+C:\Users\elfik\OneDrive\Desktop\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\ref\EvotingApi.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.exe
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.deps.json
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.json
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.dev.json
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.pdb
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MailKit.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.AssemblyReference.cache
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfoInputs.cache
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfo.cs
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CoreCompileInputs.cache
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\scopedcss\bundle\EvotingApi.styles.css
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Manifest.cache
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Pack.cache
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.EvotingApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.build.EvotingApi.props
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EvotingApi.props
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EvotingApi.props
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.RazorTargetAssemblyInfo.cache
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CopyComplete
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\refint\EvotingApi.dll
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.pdb
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.genruntimeconfig.cache
+C:\Users\Fannan\Downloads\projecttt\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\ref\EvotingApi.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.AssemblyReference.cache
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfoInputs.cache
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfo.cs
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CoreCompileInputs.cache
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\refint\EvotingApi.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.pdb
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.json
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.exe
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.deps.json
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.json
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.dev.json
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.pdb
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Humanizer.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MailKit.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MimeKit.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\scopedcss\bundle\EvotingApi.styles.css
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Manifest.cache
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Pack.cache
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.EvotingApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.build.EvotingApi.props
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EvotingApi.props
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EvotingApi.props
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.RazorTargetAssemblyInfo.cache
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CopyComplete
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.genruntimeconfig.cache
+D:\Project030623\finalfinalprject\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\ref\EvotingApi.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.exe
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.deps.json
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.json
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.runtimeconfig.dev.json
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\EvotingApi.pdb
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MailKit.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.AssemblyReference.cache
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfoInputs.cache
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.AssemblyInfo.cs
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CoreCompileInputs.cache
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\scopedcss\bundle\EvotingApi.styles.css
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Manifest.cache
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\EvotingApi.StaticWebAssets.Pack.cache
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.EvotingApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.build.EvotingApi.props
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EvotingApi.props
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EvotingApi.props
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.RazorTargetAssemblyInfo.cache
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.csproj.CopyComplete
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\refint\EvotingApi.dll
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.pdb
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\EvotingApi.genruntimeconfig.cache
+C:\Users\Fannan\Desktop\finalpp\rehabv2\Evoting-Solution-v3\EvotingApi\obj\Debug\net5.0\ref\EvotingApi.dll
